@@ -1,4 +1,4 @@
-Hello, my name is Aushanae Haller (she/her) and I am a Senior at Smith College. I will graduate from Smith College with a degree in Statistical & Data Sciences (SDS) and Psychology.
+Hello, my name is Aushanae Haller (she/her) and I am a Senior at Smith College. I will graduate from Smith College in Dec 2022 with a degree in Statistical & Data Sciences (SDS) and Psychology.
 
 -----------
 
