@@ -8,6 +8,7 @@ Here are some of my projects that I maintain or contribute to:
 
 - [ajhaller/IPEDS](https://github.com/ajhaller/IPEDS): an R 📦 for the The Integrated Postsecondary Education Data System
 - [moderndive/moderndive](https://github.com/moderndive/moderndive): an R 📦 designed to supplement the book “Statistical Inference via Data Science: A ModernDive into R and the Tidyverse”
+- [ggRtsy](https://github.com/katelyndiaz/ggRtsy): an R 📦 containing easy-to-use color palettes based on Van Gogh’s most famous paintings
 
 -----------
 
