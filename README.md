@@ -1,4 +1,4 @@
-Hello, my name is Aushanae Haller (she/her) and I am a Recent Graduate of Smith College with a degree in Statistical & Data Sciences (SDS) and Psychology.
+Hello, my name is Aushanae Haller (she/her) and I am a Recent MS in Data Science Graduate of Rice University, and a Graduate Data Analyst @ Politics On The Go.
 
 -----------
 
